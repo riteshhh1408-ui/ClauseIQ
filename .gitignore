@@ -1,0 +1,13 @@
+# Environment
+backend/.env
+
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Uploaded PDFs
+backend/uploads/
+
+# Node
+frontend/node_modules/
