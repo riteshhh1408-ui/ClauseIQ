@@ -91,3 +91,50 @@ button:hover {
 .file-info p {
   color: #cbd5e1;
 }
+.ask-container{
+    width:70%;
+    margin:60px auto;
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+}
+
+.ask-container h2{
+    color:white;
+    text-align:center;
+}
+
+.ask-container textarea{
+    padding:18px;
+    font-size:17px;
+    border:none;
+    border-radius:10px;
+    resize:none;
+    min-height:120px;
+}
+
+.ask-container button{
+    padding:15px;
+    border:none;
+    border-radius:10px;
+    background:#2563eb;
+    color:white;
+    font-size:18px;
+    cursor:pointer;
+}
+
+.ask-container button:hover{
+    background:#1d4ed8;
+}
+
+.answer-box{
+    background:#1e293b;
+    color:white;
+    padding:20px;
+    border-radius:12px;
+}
+
+.answer-box h3{
+    color:#38bdf8;
+    margin-bottom:10px;
+}

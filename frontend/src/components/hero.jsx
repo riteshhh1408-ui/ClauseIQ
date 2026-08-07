@@ -1,5 +1,3 @@
-import UploadBox from "./UploadBox";
-
 function Hero() {
   return (
     <section className="hero">
@@ -13,8 +11,6 @@ function Hero() {
         Upload policies, contracts, manuals or PDFs and get accurate,
         evidence-backed answers with citations.
       </p>
-
-      <UploadBox />
     </section>
   );
 }
