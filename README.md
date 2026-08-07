@@ -60,4 +60,4 @@ In future versions, we plan to add document chunking, vector search, page-level 
 
 ## Team
 
-This project was built as part of a hackathon by Team ClauseIQ.
+This project was built as part of a hackathon by Team ShipHappens.
