@@ -1,7 +1,7 @@
 import Navbar from "../components/navbar";
 import Hero from "../components/hero";
 import UploadBox from "../components/uploadBox";
-import AskAI from "../components/askAI";
+import AskAI from "../components/AskAI";
 import Features from "../components/features";
 import Footer from "../components/footer";
 
