@@ -61,3 +61,8 @@ In future versions, we plan to add document chunking, vector search, page-level 
 ## Team
 
 This project was built as part of a hackathon by Team ShipHappens.
+
+## Team Members
+Ritesh Kumar (25051382)
+Hozaifa Nehal (25051343)
+Rishu Pratap (25051381)
