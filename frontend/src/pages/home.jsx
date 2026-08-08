@@ -1,9 +1,9 @@
-import Navbar from "../components/Navbar";
-import Hero from "../components/Hero";
-import UploadBox from "../components/UploadBox";
-import AskAI from "../components/AskAI";
-import Features from "../components/Features";
-import Footer from "../components/Footer";
+import Navbar from "../components/navbar";
+import Hero from "../components/hero";
+import UploadBox from "../components/uploadBox";
+import AskAI from "../components/askAI";
+import Features from "../components/features";
+import Footer from "../components/footer";
 
 function Home() {
   return (
